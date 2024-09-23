@@ -1,2 +1,2 @@
-# TUDWeek2
-Week2 of Game Design
+# Hello!
+I am a student!
